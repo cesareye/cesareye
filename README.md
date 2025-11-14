@@ -11,9 +11,8 @@
 - Banco de Dados: MySQL  
 - Ferramentas: Git, VS Code, google colab
 
-## 📂 Projetos em destaque
-- [Sistema de Biblioteca](link) – CRUD completo em Java com MySQL  
-- [Aplicativo de Tarefas](link) – Frontend em React integrado a API REST  
+## 📂 Projeto em destaque
+- [cadastro de clientes](https://github.com/cesareye/banco-de-dados-2ds/blob/main/cadastro-clientes.sql) – criaçao de cadastro com sql   
 
 ## 📫 Contato
 - Email: cesar.arvelo@escola.pr.gov.br
