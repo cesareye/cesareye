@@ -1,5 +1,8 @@
 # 👋 Olá, eu sou Cesar Reyes
 
+<img align='center' src="https://incluir-link-do-seu-avatar-aqui.png" width="215">
+
+
 ## 🚀 Sobre mim
 - 🎓 Estudante de Desenvolvimento de Sistemas  
 - 💻 Experiência em projetos acadêmicos e pessoais com Javascript, Python e SQL  
