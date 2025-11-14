@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Cesar Reyes
 
-<img align='center' src="https://incluir-link-do-seu-avatar-aqui.png" width="215">
+<img align='center' src="https://github.com/cesareye/cesareye/blob/main/octocat-1763125969933.png" width="215">
 
 
 ## 🚀 Sobre mim
