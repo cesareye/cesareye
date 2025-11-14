@@ -17,7 +17,7 @@
 
 ## 📫 Contato
 - Email: cesar.arvelo@escola.pr.gov.br
-- [GitHub](github.com/cesareye) 
+- [GitHub](https://github.com/cesareye) 
 
 ---
 ✨ Este README foi pensado para **recrutadores**, destacando minhas habilidades técnicas e projetos aplicados.
